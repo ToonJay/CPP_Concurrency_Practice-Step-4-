@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Practice4-1_ThreadedAggregator/Practice4-1_ThreadedAggregator.vcxproj" Id="9f5c7b40-48e1-48eb-94cb-8e2015747e7d" />
+  <Project Path="Practice4-2_SimulatedBankTransactions/Practice4-2_SimulatedBankTransactions.vcxproj" Id="7dbb9574-ea17-457d-968d-c5537632c372" />
+</Solution>
