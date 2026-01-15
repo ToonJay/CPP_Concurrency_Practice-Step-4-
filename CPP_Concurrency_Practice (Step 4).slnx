@@ -6,4 +6,5 @@
   <Project Path="Practice4-1_ThreadedAggregator/Practice4-1_ThreadedAggregator.vcxproj" Id="9f5c7b40-48e1-48eb-94cb-8e2015747e7d" />
   <Project Path="Practice4-2_SimulatedBankTransactions/Practice4-2_SimulatedBankTransactions.vcxproj" Id="7dbb9574-ea17-457d-968d-c5537632c372" />
   <Project Path="Practice4-3_Thread-safeLogging/Practice4-3_Thread-safeLogging.vcxproj" Id="f981e1c5-1ce8-4fdd-8ed4-7b0a5f7bd5a7" />
+  <Project Path="Practice4-4_BarrierSynchronization/Practice4-4_BarrierSynchronization.vcxproj" Id="f16f01f2-245f-481a-8d99-2ff43002550f" />
 </Solution>
