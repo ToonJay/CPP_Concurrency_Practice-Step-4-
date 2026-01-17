@@ -7,4 +7,5 @@
   <Project Path="Practice4-2_SimulatedBankTransactions/Practice4-2_SimulatedBankTransactions.vcxproj" Id="7dbb9574-ea17-457d-968d-c5537632c372" />
   <Project Path="Practice4-3_Thread-safeLogging/Practice4-3_Thread-safeLogging.vcxproj" Id="f981e1c5-1ce8-4fdd-8ed4-7b0a5f7bd5a7" />
   <Project Path="Practice4-4_BarrierSynchronization/Practice4-4_BarrierSynchronization.vcxproj" Id="f16f01f2-245f-481a-8d99-2ff43002550f" />
+  <Project Path="Practice4-5_StockPriceAggregator/Practice4-5_StockPriceAggregator.vcxproj" Id="4e7a295e-4c1b-435a-bc68-70f6163b42ef" />
 </Solution>
